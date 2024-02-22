@@ -1,0 +1,57 @@
+{
+    "OS X Mavericks":
+    {
+        "insignia": "apple",
+        "country": "US"
+    },
+    "OS X Yosemite":
+    {
+        "insignia": "apple",
+        "country": "US"
+    },
+    "OS X El Capitan":
+    {
+        "insignia": "apple",
+        "country": "US"
+    },
+    "macOS Sierra":
+    {
+        "insignia": "apple",
+        "country": "US"
+    },
+    "macOS High Sierra":
+    {
+        "insignia": "apple",
+        "country": "US"
+    },
+    "macOS Mojave":
+    {
+        "insignia": "apple",
+        "country": "US"
+    },
+    "macOS Catalina":
+    {
+        "insignia": "apple",
+        "country": "US"
+    },
+    "macOS Big Sur":
+    {
+        "insignia": "apple",
+        "country": "US"
+    },
+    "macOS Monterey":
+    {
+        "insignia": "apple",
+        "country": "US"
+    },
+    "macOS Ventura":
+    {
+        "insignia": "apple",
+        "country": "US"
+    },
+    "macOS Sonoma":
+    {
+        "insignia": "apple",
+        "country": "US"
+    }
+}
