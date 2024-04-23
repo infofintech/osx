@@ -1,0 +1,46 @@
+{
+    "2013":
+    {
+        "title": "Apple OS X Mavericks (WWDC [id])"
+    },
+    "2014":
+    {
+        "title": "Apple OS X Yosemite (WWDC [id])"
+    },
+    "2015":
+    {
+        "title": "Apple OS X El Capitan (WWDC [id])"
+    },
+    "2016":
+    {
+        "title": "Apple macOS Sierra (WWDC [id])"
+    },
+    "2017":
+    {
+        "title": "Apple macOS High Sierra (WWDC [id])"
+    },
+    "2018":
+    {
+        "title": "Apple macOS Mojave (WWDC [id])"
+    },
+    "2019":
+    {
+        "title": "Apple macOS Catalina (WWDC [id])"
+    },
+    "2020":
+    {
+        "title": "Apple macOS Big Sur (WWDC [id])"
+    },
+    "2021":
+    {
+        "title": "Apple macOS Monterey (WWDC [id])"
+    },
+    "2022":
+    {
+        "title": "Apple macOS Ventura (WWDC [id])"
+    },
+    "2023":
+    {
+        "title": "Apple macOS Sonoma (WWDC [id])"
+    }
+}
