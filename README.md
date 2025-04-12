@@ -1,4 +1,4 @@
-# Apple macOS - Desktop Pictures
+# Apple OS X & macOS - Desktop Pictures
 
 A collection of Apple macOS wallpapers.
 
