@@ -1,0 +1,62 @@
+{
+    "2005": {
+        "title": "Apple OS X 10.0 Cheetah & 10.1 Puma (WWDC [id])"
+    },
+    "2006": {
+        "title": "Apple OS X 10.2 Jaguar (WWDC [id])"
+    },
+    "2007": {
+        "title": "Apple OS X 10.3 Panther (WWDC [id])"
+    },
+    "2008": {
+        "title": "Apple OS X 10.4 Tiger (WWDC [id])"
+    },
+    "2009": {
+        "title": "Apple OS X 10.5 Leopard (WWDC [id])"
+    },
+    "2010": {
+        "title": "Apple OS X 10.6 Snow Leopard (WWDC [id])"
+    },
+    "2011": {
+        "title": "Apple OS X 10.7 Lion (WWDC [id])"
+    },
+    "2012": {
+        "title": "Apple OS X 10.8 Mountain Lion (WWDC [id])"
+    },
+    "2013": {
+        "title": "Apple OS X 10.9 Mavericks (WWDC [id])"
+    },
+    "2014": {
+        "title": "Apple OS X 10.10 Yosemite (WWDC [id])"
+    },
+    "2015": {
+        "title": "Apple OS X 10.11 El Capitan (WWDC [id])"
+    },
+    "2016": {
+        "title": "Apple macOS 10.12 Sierra (WWDC [id])"
+    },
+    "2017": {
+        "title": "Apple macOS 10.13 High Sierra (WWDC [id])"
+    },
+    "2018": {
+        "title": "Apple macOS 10.14 Mojave (WWDC [id])"
+    },
+    "2019": {
+        "title": "Apple macOS 10.15 Catalina (WWDC [id])"
+    },
+    "2020": {
+        "title": "Apple macOS 11 Big Sur (WWDC [id])"
+    },
+    "2021": {
+        "title": "Apple macOS 12 Monterey (WWDC [id])"
+    },
+    "2022": {
+        "title": "Apple macOS 13 Ventura (WWDC [id])"
+    },
+    "2023": {
+        "title": "Apple macOS 14 Sonoma (WWDC [id])"
+    },
+    "2024": {
+        "title": "Apple macOS 15 Sequoia (WWDC [id])"
+    }
+}
